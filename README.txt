@@ -1,22 +1,26 @@
 Link to unlisted YouTube video:
+https://youtu.be/-wwGNRUMVmc
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
-https://github.com/you/CSE123/blob/main/submission3/Concept%20Map.pdf
+https://github.com/Md-Tariqul-Islam/CSE707/tree/main/submission3/Concept%20Map.pdf
+
 Native/original format: 
-https://draw.io/...
+https://drive.google.com/file/d/1pTx31ygcTq6OLONAehLfHDtUExGENFGM/view?usp=sharing
 
 Name, Author, Edition, year, and publisher of the Book:
-Speech and Language Processing
-Jurafsky
+Principles of Distributed Database Systems
+Patrick Özsu, M. Tamer; Valduriez
 3rd edition
-2014
-Pearson
+2011
+Springer
 
 Link to the book:
- 
+https://www.amazon.com/Principles-Distributed-Database-Systems-Tamer/dp/1441988335 
+
 Link to the book chapter:
- 
+https://vulms.vu.edu.pk/Courses/CS712/Downloads/Principles%20of%20Distributed%20Database%20Systems.pdf#page=266
+
 Group Number:
 03
 
